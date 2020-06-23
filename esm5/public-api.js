@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of search-select
+ */
+export * from './lib/search-select.service';
+export * from './lib/search-select.component';
+export * from './lib/search-select.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL3NlYXJjaC1zZWxlY3QvIiwic291cmNlcyI6WyJwdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyw2QkFBNkIsQ0FBQztBQUM1QyxjQUFjLCtCQUErQixDQUFDO0FBQzlDLGNBQWMsNEJBQTRCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIHNlYXJjaC1zZWxlY3RcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9zZWFyY2gtc2VsZWN0LnNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvc2VhcmNoLXNlbGVjdC5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvc2VhcmNoLXNlbGVjdC5tb2R1bGUnO1xuIl19
